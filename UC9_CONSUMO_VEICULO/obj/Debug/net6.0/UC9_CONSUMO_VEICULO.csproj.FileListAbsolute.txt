@@ -1,0 +1,15 @@
+C:\Users\mateus.mbhespana\source\repos\UC9_CONSUMO_VEICULO\UC9_CONSUMO_VEICULO\bin\Debug\net6.0\UC9_CONSUMO_VEICULO.exe
+C:\Users\mateus.mbhespana\source\repos\UC9_CONSUMO_VEICULO\UC9_CONSUMO_VEICULO\bin\Debug\net6.0\UC9_CONSUMO_VEICULO.deps.json
+C:\Users\mateus.mbhespana\source\repos\UC9_CONSUMO_VEICULO\UC9_CONSUMO_VEICULO\bin\Debug\net6.0\UC9_CONSUMO_VEICULO.runtimeconfig.json
+C:\Users\mateus.mbhespana\source\repos\UC9_CONSUMO_VEICULO\UC9_CONSUMO_VEICULO\bin\Debug\net6.0\UC9_CONSUMO_VEICULO.dll
+C:\Users\mateus.mbhespana\source\repos\UC9_CONSUMO_VEICULO\UC9_CONSUMO_VEICULO\bin\Debug\net6.0\ref\UC9_CONSUMO_VEICULO.dll
+C:\Users\mateus.mbhespana\source\repos\UC9_CONSUMO_VEICULO\UC9_CONSUMO_VEICULO\bin\Debug\net6.0\UC9_CONSUMO_VEICULO.pdb
+C:\Users\mateus.mbhespana\source\repos\UC9_CONSUMO_VEICULO\UC9_CONSUMO_VEICULO\obj\Debug\net6.0\UC9_CONSUMO_VEICULO.csproj.AssemblyReference.cache
+C:\Users\mateus.mbhespana\source\repos\UC9_CONSUMO_VEICULO\UC9_CONSUMO_VEICULO\obj\Debug\net6.0\UC9_CONSUMO_VEICULO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateus.mbhespana\source\repos\UC9_CONSUMO_VEICULO\UC9_CONSUMO_VEICULO\obj\Debug\net6.0\UC9_CONSUMO_VEICULO.AssemblyInfoInputs.cache
+C:\Users\mateus.mbhespana\source\repos\UC9_CONSUMO_VEICULO\UC9_CONSUMO_VEICULO\obj\Debug\net6.0\UC9_CONSUMO_VEICULO.AssemblyInfo.cs
+C:\Users\mateus.mbhespana\source\repos\UC9_CONSUMO_VEICULO\UC9_CONSUMO_VEICULO\obj\Debug\net6.0\UC9_CONSUMO_VEICULO.csproj.CoreCompileInputs.cache
+C:\Users\mateus.mbhespana\source\repos\UC9_CONSUMO_VEICULO\UC9_CONSUMO_VEICULO\obj\Debug\net6.0\UC9_CONSUMO_VEICULO.dll
+C:\Users\mateus.mbhespana\source\repos\UC9_CONSUMO_VEICULO\UC9_CONSUMO_VEICULO\obj\Debug\net6.0\ref\UC9_CONSUMO_VEICULO.dll
+C:\Users\mateus.mbhespana\source\repos\UC9_CONSUMO_VEICULO\UC9_CONSUMO_VEICULO\obj\Debug\net6.0\UC9_CONSUMO_VEICULO.pdb
+C:\Users\mateus.mbhespana\source\repos\UC9_CONSUMO_VEICULO\UC9_CONSUMO_VEICULO\obj\Debug\net6.0\UC9_CONSUMO_VEICULO.genruntimeconfig.cache
